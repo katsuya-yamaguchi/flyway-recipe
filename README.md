@@ -52,7 +52,6 @@ Schema version: 4
 SQLファイルの命名規則
 
 5. 
-
 Aの修正1
 Aの修正2
 Aの修正3
