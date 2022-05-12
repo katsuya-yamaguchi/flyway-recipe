@@ -1,0 +1,7 @@
+CREATE TABLE public.user (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(30) NOT NULL,
+  password VARCHAR(40) NOT NULL,
+  email VARCHAR(30) NOT NULL,
+  created_at TIMESTAMP NOT NULL
+);
